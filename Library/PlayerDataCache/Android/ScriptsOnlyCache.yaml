@@ -112,7 +112,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Toggle
     - UnityEngine.UI.VerticalLayoutGroup
   sceneClasses:
-    Assets/Scenes/MessWith.unity:
+    Assets/Scenes/SampleScene.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -407,8 +407,6 @@ ScriptsOnlyBuild:
     - Class: 82
       Script: {instanceID: 0}
     - Class: 83
-      Script: {instanceID: 0}
-    - Class: 89
       Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
@@ -2565,6 +2563,6 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/startgame.unity
-  - Assets/Scenes/MessWith.unity
+  - Assets/Scenes/SampleScene.unity
   - Assets/Scenes/gameover.unity
-  playerPath: C:/Users/arush/LetsStack/StackGame/StackGamev9.apk
+  playerPath: C:/Users/arush/LetsStack/StackGame/StackGamev10.apk
