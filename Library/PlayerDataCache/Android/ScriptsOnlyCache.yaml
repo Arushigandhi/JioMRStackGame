@@ -1,0 +1,2570 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - AudioSpectrumData
+    - AudioVoiceVisualizer
+    - Background
+    - ClickHandler
+    - CubeSpawner
+    - DemoSceneInteractions
+    - GameManager
+    - JMRKeyboardSpawner
+    - JMRSDK.Toolkit.JMRThemeAnimator
+    - JMRSDK.Toolkit.JMRToolkitManager
+    - JMRSDK.Toolkit.JMRUIPrimaryButton
+    - JMRSDK.Toolkit.ThemeSystem.JMRThemeColorSet
+    - JMRSDK.Toolkit.ThemeSystem.JMRThemePreferences
+    - JMRSDK.Toolkit.UI.JMRCanvasUtility
+    - JMRSDK.Toolkit.UI.JMRImageView
+    - JMRSDK.Toolkit.UI.JMRThemeConfigHelper
+    - JMRSDK.Toolkit.UI.JMRUIButton
+    - JMRSDK.Toolkit.UI.JMRVirtualKeyBoard
+    - JMRSDK.Toolkit.UI.JMRVirtualKeyboardKeys
+    - JMRSDK.Toolkit.UI.SO_ThemeData
+    - MicrophoneInput
+    - MovingCube
+    - NavigateScene
+    - PauseButton
+    - ScoreText
+    - ScrollingUV
+    JMRSDK.dll:
+    - JMRSDK.Demo.JMRCanvasRayCastCameraSetter
+    - JMRSDK.Dialogue.JMRSDKDialogue
+    - JMRSDK.Dialogue.JMRSDKDialogueManager
+    - JMRSDK.DialogueButton.JMRSDKDialogueButton
+    - JMRSDK.InputModule.JMRAnimatedCursor
+    - JMRSDK.InputModule.JMRAxisController
+    - JMRSDK.InputModule.JMRControllerInputSource
+    - JMRSDK.InputModule.JMREmulatorHeadControl
+    - JMRSDK.InputModule.JMRInputManager
+    - JMRSDK.InputModule.JMRInteractable
+    - JMRSDK.InputModule.JMRInteractionManager
+    - JMRSDK.InputModule.JMRPointerManager
+    - JMRSDK.InputModule.JMRSystemActions
+    - JMRSDK.JMRControllerKeyBinding
+    - JMRSDK.JMRDisplayManager
+    - JMRSDK.JMREmulatorKeyBinding
+    - JMRSDK.JMRIPDCalibration
+    - JMRSDK.JMRIPDManager
+    - JMRSDK.JMRLifecycle
+    - JMRSDK.JMRManager
+    - JMRSDK.JMRMoveWithMouse
+    - JMRSDK.JMRObjectDelayHider
+    - JMRSDK.JMRObjectHider
+    - JMRSDK.JMRPlatformManager
+    - JMRSDK.JMRRigManager
+    - JMRSDK.JMRSDKErrorManager
+    - JMRSDK.JMRSFXManager
+    - JMRSDK.JMRSensorManager
+    - JMRSDK.JMRSetRecenterProgress
+    - JMRSDK.JMRTrackerManager
+    - JMRSDK.JMRUIRayCastCamera
+    - JMRSDK.JMRVoiceManager
+    - JMRSDK.JMRVoiceUIManager
+    - JMRSDK.SO_CurrentControllerKeyBinding
+    - JMRSDK.SO_DefaultControllerKeyBinding
+    - JMRSDK.SO_JMRActiveEmulatorKeyBinding
+    - JMRSDK.SO_JMRControllerPosition
+    - JMRSDK.SO_JMRDefaultEmulatorKeyBinding
+    - JMRSDK.UX.PointerLaserUnity
+    - JMRSDK.Utilities.JMRLaser
+    - JMRSDK.Utilities.MainThreadDispatcher
+    JMRSDKUI.dll:
+    - JMRSDK.UI.Cards.CardData
+    - JMRSDK.UI.Cards.UpdateButtonTheme
+    - JMRSDK.UI.JMRUIManager
+    - JMRSDK.UI.Mediator.PopUpMediator
+    - JMRSDK.UI.SUIConfigManager
+    - JMRSDK.UI.Utils.JMRTrackedLazyFollow
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_ColorGradient
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    - TMPro.TMP_SubMeshUI
+    - TMPro.TextMeshProUGUI
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.EventTrigger
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.Dropdown
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.GridLayoutGroup
+    - UnityEngine.UI.HorizontalLayoutGroup
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.LayoutElement
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.Outline
+    - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Scrollbar
+    - UnityEngine.UI.Slider
+    - UnityEngine.UI.Text
+    - UnityEngine.UI.Toggle
+    - UnityEngine.UI.VerticalLayoutGroup
+  sceneClasses:
+    Assets/Scenes/MessWith.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11386}
+    - Class: 114
+      Script: {instanceID: 11388}
+    - Class: 114
+      Script: {instanceID: 11390}
+    - Class: 114
+      Script: {instanceID: 11394}
+    - Class: 114
+      Script: {instanceID: 11402}
+    - Class: 114
+      Script: {instanceID: 11404}
+    - Class: 114
+      Script: {instanceID: 11410}
+    - Class: 114
+      Script: {instanceID: 11412}
+    - Class: 114
+      Script: {instanceID: 11420}
+    - Class: 114
+      Script: {instanceID: 11422}
+    - Class: 114
+      Script: {instanceID: 11424}
+    - Class: 114
+      Script: {instanceID: 11426}
+    - Class: 114
+      Script: {instanceID: 11464}
+    - Class: 114
+      Script: {instanceID: 11734}
+    - Class: 114
+      Script: {instanceID: 11808}
+    - Class: 114
+      Script: {instanceID: 11822}
+    - Class: 114
+      Script: {instanceID: 11836}
+    - Class: 114
+      Script: {instanceID: 11892}
+    - Class: 114
+      Script: {instanceID: 11974}
+    - Class: 114
+      Script: {instanceID: 11976}
+    - Class: 114
+      Script: {instanceID: 11984}
+    - Class: 114
+      Script: {instanceID: 11986}
+    - Class: 114
+      Script: {instanceID: 11998}
+    - Class: 114
+      Script: {instanceID: 12000}
+    - Class: 114
+      Script: {instanceID: 12002}
+    - Class: 114
+      Script: {instanceID: 12004}
+    - Class: 114
+      Script: {instanceID: 12010}
+    - Class: 114
+      Script: {instanceID: 12014}
+    - Class: 114
+      Script: {instanceID: 12016}
+    - Class: 114
+      Script: {instanceID: 12020}
+    - Class: 114
+      Script: {instanceID: 12026}
+    - Class: 114
+      Script: {instanceID: 12028}
+    - Class: 114
+      Script: {instanceID: 12034}
+    - Class: 114
+      Script: {instanceID: 12038}
+    - Class: 114
+      Script: {instanceID: 12040}
+    - Class: 114
+      Script: {instanceID: 12044}
+    - Class: 114
+      Script: {instanceID: 12056}
+    - Class: 114
+      Script: {instanceID: 12060}
+    - Class: 114
+      Script: {instanceID: 12062}
+    - Class: 114
+      Script: {instanceID: 12064}
+    - Class: 114
+      Script: {instanceID: 12066}
+    - Class: 114
+      Script: {instanceID: 12068}
+    - Class: 114
+      Script: {instanceID: 12074}
+    - Class: 114
+      Script: {instanceID: 12082}
+    - Class: 114
+      Script: {instanceID: 12086}
+    - Class: 114
+      Script: {instanceID: 12088}
+    - Class: 114
+      Script: {instanceID: 12090}
+    - Class: 114
+      Script: {instanceID: 12092}
+    - Class: 114
+      Script: {instanceID: 12094}
+    - Class: 114
+      Script: {instanceID: 12096}
+    - Class: 114
+      Script: {instanceID: 12098}
+    - Class: 114
+      Script: {instanceID: 12100}
+    - Class: 114
+      Script: {instanceID: 12102}
+    - Class: 114
+      Script: {instanceID: 12104}
+    - Class: 114
+      Script: {instanceID: 12120}
+    - Class: 114
+      Script: {instanceID: 12164}
+    - Class: 114
+      Script: {instanceID: 12202}
+    - Class: 114
+      Script: {instanceID: 12324}
+    - Class: 114
+      Script: {instanceID: 12358}
+    - Class: 114
+      Script: {instanceID: 12458}
+    - Class: 114
+      Script: {instanceID: 12514}
+    - Class: 114
+      Script: {instanceID: 12650}
+    - Class: 114
+      Script: {instanceID: 12690}
+    - Class: 114
+      Script: {instanceID: 12766}
+    - Class: 114
+      Script: {instanceID: 13000}
+    - Class: 114
+      Script: {instanceID: 13088}
+    - Class: 114
+      Script: {instanceID: 13104}
+    - Class: 114
+      Script: {instanceID: 13108}
+    - Class: 114
+      Script: {instanceID: 13290}
+    - Class: 114
+      Script: {instanceID: 13396}
+    - Class: 114
+      Script: {instanceID: 13440}
+    - Class: 114
+      Script: {instanceID: 13446}
+    - Class: 114
+      Script: {instanceID: 13528}
+    - Class: 114
+      Script: {instanceID: 13590}
+    - Class: 114
+      Script: {instanceID: 13750}
+    - Class: 114
+      Script: {instanceID: 13876}
+    - Class: 114
+      Script: {instanceID: 13912}
+    - Class: 114
+      Script: {instanceID: 13926}
+    - Class: 114
+      Script: {instanceID: 13932}
+    - Class: 114
+      Script: {instanceID: 13934}
+    - Class: 114
+      Script: {instanceID: 13936}
+    - Class: 114
+      Script: {instanceID: 13944}
+    - Class: 114
+      Script: {instanceID: 13948}
+    - Class: 114
+      Script: {instanceID: 14024}
+    - Class: 114
+      Script: {instanceID: 14150}
+    - Class: 114
+      Script: {instanceID: 14300}
+    - Class: 114
+      Script: {instanceID: 14362}
+    - Class: 114
+      Script: {instanceID: 14374}
+    - Class: 114
+      Script: {instanceID: 14378}
+    - Class: 114
+      Script: {instanceID: 14394}
+    - Class: 114
+      Script: {instanceID: 14428}
+    - Class: 114
+      Script: {instanceID: 14452}
+    - Class: 114
+      Script: {instanceID: 14498}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 225
+      Script: {instanceID: 0}
+    - Class: 241
+      Script: {instanceID: 0}
+    - Class: 243
+      Script: {instanceID: 0}
+    - Class: 245
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    - Class: 331
+      Script: {instanceID: 0}
+    - Class: 1183024399
+      Script: {instanceID: 0}
+    - Class: 1773428102
+      Script: {instanceID: 0}
+    Assets/Scenes/gameover.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11386}
+    - Class: 114
+      Script: {instanceID: 11388}
+    - Class: 114
+      Script: {instanceID: 11390}
+    - Class: 114
+      Script: {instanceID: 11394}
+    - Class: 114
+      Script: {instanceID: 11402}
+    - Class: 114
+      Script: {instanceID: 11404}
+    - Class: 114
+      Script: {instanceID: 11410}
+    - Class: 114
+      Script: {instanceID: 11412}
+    - Class: 114
+      Script: {instanceID: 11420}
+    - Class: 114
+      Script: {instanceID: 11422}
+    - Class: 114
+      Script: {instanceID: 11424}
+    - Class: 114
+      Script: {instanceID: 11426}
+    - Class: 114
+      Script: {instanceID: 11464}
+    - Class: 114
+      Script: {instanceID: 11822}
+    - Class: 114
+      Script: {instanceID: 11836}
+    - Class: 114
+      Script: {instanceID: 11892}
+    - Class: 114
+      Script: {instanceID: 11974}
+    - Class: 114
+      Script: {instanceID: 11976}
+    - Class: 114
+      Script: {instanceID: 11984}
+    - Class: 114
+      Script: {instanceID: 11986}
+    - Class: 114
+      Script: {instanceID: 11998}
+    - Class: 114
+      Script: {instanceID: 12000}
+    - Class: 114
+      Script: {instanceID: 12002}
+    - Class: 114
+      Script: {instanceID: 12004}
+    - Class: 114
+      Script: {instanceID: 12010}
+    - Class: 114
+      Script: {instanceID: 12014}
+    - Class: 114
+      Script: {instanceID: 12016}
+    - Class: 114
+      Script: {instanceID: 12020}
+    - Class: 114
+      Script: {instanceID: 12026}
+    - Class: 114
+      Script: {instanceID: 12028}
+    - Class: 114
+      Script: {instanceID: 12034}
+    - Class: 114
+      Script: {instanceID: 12038}
+    - Class: 114
+      Script: {instanceID: 12040}
+    - Class: 114
+      Script: {instanceID: 12044}
+    - Class: 114
+      Script: {instanceID: 12056}
+    - Class: 114
+      Script: {instanceID: 12060}
+    - Class: 114
+      Script: {instanceID: 12062}
+    - Class: 114
+      Script: {instanceID: 12064}
+    - Class: 114
+      Script: {instanceID: 12066}
+    - Class: 114
+      Script: {instanceID: 12068}
+    - Class: 114
+      Script: {instanceID: 12074}
+    - Class: 114
+      Script: {instanceID: 12082}
+    - Class: 114
+      Script: {instanceID: 12086}
+    - Class: 114
+      Script: {instanceID: 12088}
+    - Class: 114
+      Script: {instanceID: 12090}
+    - Class: 114
+      Script: {instanceID: 12092}
+    - Class: 114
+      Script: {instanceID: 12094}
+    - Class: 114
+      Script: {instanceID: 12096}
+    - Class: 114
+      Script: {instanceID: 12098}
+    - Class: 114
+      Script: {instanceID: 12100}
+    - Class: 114
+      Script: {instanceID: 12102}
+    - Class: 114
+      Script: {instanceID: 12104}
+    - Class: 114
+      Script: {instanceID: 12120}
+    - Class: 114
+      Script: {instanceID: 12164}
+    - Class: 114
+      Script: {instanceID: 12202}
+    - Class: 114
+      Script: {instanceID: 12324}
+    - Class: 114
+      Script: {instanceID: 12358}
+    - Class: 114
+      Script: {instanceID: 12458}
+    - Class: 114
+      Script: {instanceID: 12514}
+    - Class: 114
+      Script: {instanceID: 12528}
+    - Class: 114
+      Script: {instanceID: 12570}
+    - Class: 114
+      Script: {instanceID: 12650}
+    - Class: 114
+      Script: {instanceID: 12690}
+    - Class: 114
+      Script: {instanceID: 12766}
+    - Class: 114
+      Script: {instanceID: 13088}
+    - Class: 114
+      Script: {instanceID: 13104}
+    - Class: 114
+      Script: {instanceID: 13108}
+    - Class: 114
+      Script: {instanceID: 13396}
+    - Class: 114
+      Script: {instanceID: 13440}
+    - Class: 114
+      Script: {instanceID: 13446}
+    - Class: 114
+      Script: {instanceID: 13528}
+    - Class: 114
+      Script: {instanceID: 13750}
+    - Class: 114
+      Script: {instanceID: 13876}
+    - Class: 114
+      Script: {instanceID: 13912}
+    - Class: 114
+      Script: {instanceID: 13926}
+    - Class: 114
+      Script: {instanceID: 13932}
+    - Class: 114
+      Script: {instanceID: 13934}
+    - Class: 114
+      Script: {instanceID: 13936}
+    - Class: 114
+      Script: {instanceID: 13944}
+    - Class: 114
+      Script: {instanceID: 13948}
+    - Class: 114
+      Script: {instanceID: 14024}
+    - Class: 114
+      Script: {instanceID: 14150}
+    - Class: 114
+      Script: {instanceID: 14362}
+    - Class: 114
+      Script: {instanceID: 14378}
+    - Class: 114
+      Script: {instanceID: 14394}
+    - Class: 114
+      Script: {instanceID: 14428}
+    - Class: 114
+      Script: {instanceID: 14452}
+    - Class: 114
+      Script: {instanceID: 14498}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 225
+      Script: {instanceID: 0}
+    - Class: 241
+      Script: {instanceID: 0}
+    - Class: 243
+      Script: {instanceID: 0}
+    - Class: 245
+      Script: {instanceID: 0}
+    - Class: 331
+      Script: {instanceID: 0}
+    - Class: 1183024399
+      Script: {instanceID: 0}
+    - Class: 1773428102
+      Script: {instanceID: 0}
+    Assets/Scenes/startgame.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11386}
+    - Class: 114
+      Script: {instanceID: 11388}
+    - Class: 114
+      Script: {instanceID: 11390}
+    - Class: 114
+      Script: {instanceID: 11394}
+    - Class: 114
+      Script: {instanceID: 11402}
+    - Class: 114
+      Script: {instanceID: 11404}
+    - Class: 114
+      Script: {instanceID: 11410}
+    - Class: 114
+      Script: {instanceID: 11412}
+    - Class: 114
+      Script: {instanceID: 11420}
+    - Class: 114
+      Script: {instanceID: 11422}
+    - Class: 114
+      Script: {instanceID: 11424}
+    - Class: 114
+      Script: {instanceID: 11426}
+    - Class: 114
+      Script: {instanceID: 11464}
+    - Class: 114
+      Script: {instanceID: 11822}
+    - Class: 114
+      Script: {instanceID: 11836}
+    - Class: 114
+      Script: {instanceID: 11892}
+    - Class: 114
+      Script: {instanceID: 11974}
+    - Class: 114
+      Script: {instanceID: 11976}
+    - Class: 114
+      Script: {instanceID: 11984}
+    - Class: 114
+      Script: {instanceID: 11986}
+    - Class: 114
+      Script: {instanceID: 11998}
+    - Class: 114
+      Script: {instanceID: 12000}
+    - Class: 114
+      Script: {instanceID: 12002}
+    - Class: 114
+      Script: {instanceID: 12004}
+    - Class: 114
+      Script: {instanceID: 12010}
+    - Class: 114
+      Script: {instanceID: 12014}
+    - Class: 114
+      Script: {instanceID: 12016}
+    - Class: 114
+      Script: {instanceID: 12020}
+    - Class: 114
+      Script: {instanceID: 12026}
+    - Class: 114
+      Script: {instanceID: 12028}
+    - Class: 114
+      Script: {instanceID: 12034}
+    - Class: 114
+      Script: {instanceID: 12038}
+    - Class: 114
+      Script: {instanceID: 12040}
+    - Class: 114
+      Script: {instanceID: 12044}
+    - Class: 114
+      Script: {instanceID: 12056}
+    - Class: 114
+      Script: {instanceID: 12060}
+    - Class: 114
+      Script: {instanceID: 12062}
+    - Class: 114
+      Script: {instanceID: 12064}
+    - Class: 114
+      Script: {instanceID: 12066}
+    - Class: 114
+      Script: {instanceID: 12068}
+    - Class: 114
+      Script: {instanceID: 12074}
+    - Class: 114
+      Script: {instanceID: 12082}
+    - Class: 114
+      Script: {instanceID: 12086}
+    - Class: 114
+      Script: {instanceID: 12088}
+    - Class: 114
+      Script: {instanceID: 12090}
+    - Class: 114
+      Script: {instanceID: 12092}
+    - Class: 114
+      Script: {instanceID: 12094}
+    - Class: 114
+      Script: {instanceID: 12096}
+    - Class: 114
+      Script: {instanceID: 12098}
+    - Class: 114
+      Script: {instanceID: 12100}
+    - Class: 114
+      Script: {instanceID: 12102}
+    - Class: 114
+      Script: {instanceID: 12104}
+    - Class: 114
+      Script: {instanceID: 12120}
+    - Class: 114
+      Script: {instanceID: 12164}
+    - Class: 114
+      Script: {instanceID: 12202}
+    - Class: 114
+      Script: {instanceID: 12324}
+    - Class: 114
+      Script: {instanceID: 12358}
+    - Class: 114
+      Script: {instanceID: 12458}
+    - Class: 114
+      Script: {instanceID: 12514}
+    - Class: 114
+      Script: {instanceID: 12528}
+    - Class: 114
+      Script: {instanceID: 12650}
+    - Class: 114
+      Script: {instanceID: 12690}
+    - Class: 114
+      Script: {instanceID: 12766}
+    - Class: 114
+      Script: {instanceID: 13088}
+    - Class: 114
+      Script: {instanceID: 13104}
+    - Class: 114
+      Script: {instanceID: 13108}
+    - Class: 114
+      Script: {instanceID: 13396}
+    - Class: 114
+      Script: {instanceID: 13440}
+    - Class: 114
+      Script: {instanceID: 13446}
+    - Class: 114
+      Script: {instanceID: 13466}
+    - Class: 114
+      Script: {instanceID: 13528}
+    - Class: 114
+      Script: {instanceID: 13750}
+    - Class: 114
+      Script: {instanceID: 13876}
+    - Class: 114
+      Script: {instanceID: 13912}
+    - Class: 114
+      Script: {instanceID: 13926}
+    - Class: 114
+      Script: {instanceID: 13932}
+    - Class: 114
+      Script: {instanceID: 13934}
+    - Class: 114
+      Script: {instanceID: 13936}
+    - Class: 114
+      Script: {instanceID: 13944}
+    - Class: 114
+      Script: {instanceID: 13948}
+    - Class: 114
+      Script: {instanceID: 14024}
+    - Class: 114
+      Script: {instanceID: 14130}
+    - Class: 114
+      Script: {instanceID: 14150}
+    - Class: 114
+      Script: {instanceID: 14282}
+    - Class: 114
+      Script: {instanceID: 14362}
+    - Class: 114
+      Script: {instanceID: 14378}
+    - Class: 114
+      Script: {instanceID: 14394}
+    - Class: 114
+      Script: {instanceID: 14428}
+    - Class: 114
+      Script: {instanceID: 14452}
+    - Class: 114
+      Script: {instanceID: 14498}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 225
+      Script: {instanceID: 0}
+    - Class: 241
+      Script: {instanceID: 0}
+    - Class: 243
+      Script: {instanceID: 0}
+    - Class: 245
+      Script: {instanceID: 0}
+    - Class: 331
+      Script: {instanceID: 0}
+    - Class: 1183024399
+      Script: {instanceID: 0}
+    - Class: 1773428102
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 499fd23433e68e265d153aa6b95d0047
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: aa88ae22474df55295327e4ee99e5a24
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRCameraManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRSDKErrorManager
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: f84d945e5e1ca985698660fc26e9657f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 440f17c21540ff148be92ccb502bc74c
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRControllerInputSource
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRDisplayManager
+  - hash:
+      serializedVersion: 2
+      Hash: 208f3dcc7c0e36258a15c3b3d3e0b044
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.Dialogue
+    className: JMRSDKDialogueManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRPlatformManager
+  - hash:
+      serializedVersion: 2
+      Hash: 798e8e0a8643b7ffecb2b0f0d1db0f31
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: IntentSenderExample
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 08789e74c1a2c1568d89c0b3c13f191d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.ThemeSystem
+    className: JMRThemePreferences
+  - hash:
+      serializedVersion: 2
+      Hash: c42672c997f8be6b1aa86a927ebea785
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 8afe6a5e134761afc1d542616a1531ca
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoInteractionSourceGetterExample
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: b4fc42b020df4b67385e61ff21d513cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 06eb26a18d9c68ebc977149b1f56a29f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: SO_GlobalData
+  - hash:
+      serializedVersion: 2
+      Hash: 914943296849c974a6aeb39264f2dc77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRUIRadioButton
+  - hash:
+      serializedVersion: 2
+      Hash: 972258b9bd86002a61b3ff9bf23f8717
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRToolTip
+  - hash:
+      serializedVersion: 2
+      Hash: 411da13b506430ced30b8e3169a73ab5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoPlatformExample
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 3b1fd0ceb541cd3d3d9fc5c53a3ef701
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRDialogueBox
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: f62996d12cea1da8e5b84ade58f47f6c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRUISecondaryButton
+  - hash:
+      serializedVersion: 2
+      Hash: 914943296849c974a6aeb39264f2dc77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRUICheckBoxButton
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a211fba5fe4e8b1eb599e3498e2a9c87
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRUIPrimaryCheckBoxButton
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro
+    className: TMP_PhoneNumberValidator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Background
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 8843ec39888a4219ca80b36dc0b823b8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRToolKit.UI.Keyboard
+    className: AxisSlider
+  - hash:
+      serializedVersion: 2
+      Hash: 234d407605354852c48e57df17c9a1c6
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 609137602f9171bb225c78a3fad12d17
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRUIPrimaryToggleButton
+  - hash:
+      serializedVersion: 2
+      Hash: 5e7b6ce1685be2ae8db327d002e8e20f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CubeSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 0d27a7ebb71d18d61d337e33fa02c4ee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRImageView
+  - hash:
+      serializedVersion: 2
+      Hash: cd17dc73df7cd8b30109fc7964bfb8f5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRManipulation
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 03e459772159c25b250fb56f8fa6cfc3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRContentAnimations
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 7adfea87ab27c46cfa4b6e8e3f9d7118
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: CreateTexturePatch
+  - hash:
+      serializedVersion: 2
+      Hash: 304a6cd5f8e5c943a0673ae0c22d96d1
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRAnimatedCursor
+  - hash:
+      serializedVersion: 2
+      Hash: 0c9bfc7036e3fa36daf3816adc89dae7
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRAxisController
+  - hash:
+      serializedVersion: 2
+      Hash: 875ba0a9bd3c2b06d5f4b4dd812c2ed0
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRButtonController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRCanvas
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.Demo
+    className: JMRCanvasRayCastCameraSetter
+  - hash:
+      serializedVersion: 2
+      Hash: 9e7b1d08eec45da37e459e41a303d21c
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRControllerKeyBinding
+  - hash:
+      serializedVersion: 2
+      Hash: a017b89205a3a7ee28073e7845ff5dae
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRControllerSourceHider
+  - hash:
+      serializedVersion: 2
+      Hash: fcd0c804898d567737dd60cd47220bac
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRCursorModifier
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRDistortionRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: 
+    className: JMRDraggable
+  - hash:
+      serializedVersion: 2
+      Hash: 0bffd6f9e943c10da807cbbed7588611
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMREmulatorHeadControl
+  - hash:
+      serializedVersion: 2
+      Hash: c774ea7744f063c8857c9d1f61258099
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMREmulatorKeyBinding
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRInputManager
+  - hash:
+      serializedVersion: 2
+      Hash: 633183796edf721394994b9d5bf099b5
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRInteractable
+  - hash:
+      serializedVersion: 2
+      Hash: 99345f764e5ae8c48102ee761f0c3932
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRInteractableBase
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: 
+    className: JMRInteraction
+  - hash:
+      serializedVersion: 2
+      Hash: 2c95c41ccbcaf503b12f7deb5efe38a7
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRInteractionManager
+  - hash:
+      serializedVersion: 2
+      Hash: fa1f7232672f3370d4d432c04de887a0
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRInteractiveMeshCursor
+  - hash:
+      serializedVersion: 2
+      Hash: 75aff821d8fd94e368725f86c74b39c3
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRIPDCalibration
+  - hash:
+      serializedVersion: 2
+      Hash: f9c81a3f7f562496472de5a26b2ca03b
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRIPDManager
+  - hash:
+      serializedVersion: 2
+      Hash: 8f975ab2fb90ecef48e1f041341920b6
+    assemblyName: JMRSDK.dll
+    namespaceName: 
+    className: JMRKeyClickManager
+  - hash:
+      serializedVersion: 2
+      Hash: 40bced87e65ba1c08653a4c7a9aad006
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.Utilities
+    className: JMRLaser
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRLifecycle
+  - hash:
+      serializedVersion: 2
+      Hash: a3c5c7320dbc6b82b5e8c9eb7d462d6d
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRManager
+  - hash:
+      serializedVersion: 2
+      Hash: 2a10d022b19d25102db8d84970711fb2
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.UX
+    className: JMRManipulation2
+  - hash:
+      serializedVersion: 2
+      Hash: e05ae0297a97635e476616e2543f4fc4
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRMeshCursor
+  - hash:
+      serializedVersion: 2
+      Hash: d750a0a2930c7f569429db595cd84ca2
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRMoveWithMouse
+  - hash:
+      serializedVersion: 2
+      Hash: c7f40ee2651092fce11393ffdf0288b4
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRObjectCursor
+  - hash:
+      serializedVersion: 2
+      Hash: dca27d814bae3d1566f3d65384e570d7
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRObjectDelayHider
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRObjectHider
+  - hash:
+      serializedVersion: 2
+      Hash: edf12db6718d26987dc2834fc4103d10
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRPointerManager
+  - hash:
+      serializedVersion: 2
+      Hash: 94be4bb9de5c0de54f4c527f95844f1c
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRRendererEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 10c357a898b8f733edd9b89a7c609634
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRRendererJioGlass
+  - hash:
+      serializedVersion: 2
+      Hash: 10c357a898b8f733edd9b89a7c609634
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRRendererJioGlassEmulator
+  - hash:
+      serializedVersion: 2
+      Hash: ed35bc6f066fedcf3993f25898ed087b
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRRendererJioGlassTBR
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRRigManager
+  - hash:
+      serializedVersion: 2
+      Hash: 6a4dab11788488fc0032f91ae160fabe
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.Dialogue
+    className: JMRSDKBaseDialogueInteractable
+  - hash:
+      serializedVersion: 2
+      Hash: 73fb810174dc9900e0ef9f406a44cb58
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.Dialogue
+    className: JMRSDKDialogue
+  - hash:
+      serializedVersion: 2
+      Hash: 80150095e3733ddde5ef722858c7b52c
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.DialogueButton
+    className: JMRSDKDialogueButton
+  - hash:
+      serializedVersion: 2
+      Hash: cc1869c0ebe2f50ce9bd576f3fc994f3
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRSensorManager
+  - hash:
+      serializedVersion: 2
+      Hash: 226b590d73a0e63ee7c885c01907fdf9
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRSetRecenterProgress
+  - hash:
+      serializedVersion: 2
+      Hash: 1e1c9f201f249c73adb0cd497393c8d6
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRSFXManager
+  - hash:
+      serializedVersion: 2
+      Hash: e55781e6647620fc9f9a8f0f6f203860
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRSpriteCursor
+  - hash:
+      serializedVersion: 2
+      Hash: 80794df4e5cbf38b762de4d452ed2436
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRSystemActions
+  - hash:
+      serializedVersion: 2
+      Hash: b9a74417d5bebf4d9896b157109888ef
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRTrackerDevice
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRTrackerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 0a3b4343ff022f88804d3f1d26fcefbe
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRTrackerManager
+  - hash:
+      serializedVersion: 2
+      Hash: affe2c61bb78aebf729fe477e507a711
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRTriggerButton
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRUIRayCastCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 3fa4a716a06cbd9e6fffce9318d16675
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRVoiceManager
+  - hash:
+      serializedVersion: 2
+      Hash: 910ed3bbfda1929c99b09288de397212
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: JMRVoiceUIManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.Utilities
+    className: MainThreadDispatcher
+  - hash:
+      serializedVersion: 2
+      Hash: 7af9edfed797111af50932ca8c5854a8
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK.UX
+    className: PointerLaserUnity
+  - hash:
+      serializedVersion: 2
+      Hash: 15106f6e5bd5d1a9abc01421c248879d
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: SO_CurrentControllerKeyBinding
+  - hash:
+      serializedVersion: 2
+      Hash: 33073b6a4faaef86e18b41fff95f1078
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: SO_DefaultControllerKeyBinding
+  - hash:
+      serializedVersion: 2
+      Hash: c451484b1adbf29fac130512eaee0129
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: SO_JMRActiveEmulatorKeyBinding
+  - hash:
+      serializedVersion: 2
+      Hash: 89f37aad0a5975fb1a1f458ead20f290
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: SO_JMRControllerPosition
+  - hash:
+      serializedVersion: 2
+      Hash: 2b59c436777dda7c8e86547a74532207
+    assemblyName: JMRSDK.dll
+    namespaceName: JMRSDK
+    className: SO_JMRDefaultEmulatorKeyBinding
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDK.dll
+    namespaceName: 
+    className: SwitchSceneTest
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: d3916d909a675989dbd59c8878dc10d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRUIPrimaryButton
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: a26289676506c8af62008579c90d209b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRDropDownItem
+  - hash:
+      serializedVersion: 2
+      Hash: ddf46057b5e032a5325da0a5fbd051cc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRProgressIndicator
+  - hash:
+      serializedVersion: 2
+      Hash: a211fba5fe4e8b1eb599e3498e2a9c87
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRUITertiaryButton
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIButtonSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 7d46137fbfa3ce2eba6cf32815b0dd99
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRUISliderSwipeControl
+  - hash:
+      serializedVersion: 2
+      Hash: 411da13b506430ced30b8e3169a73ab5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoDeviceExample
+  - hash:
+      serializedVersion: 2
+      Hash: 156340710bd9bc790dc996ac3ebee428
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRUIButton
+  - hash:
+      serializedVersion: 2
+      Hash: ef5c43f921427d03730f6ea4c848f07d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 1103fb0758976355cdf9b7d5ce9cb7e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 18eb533fe8a5c417652efa1ff45e98a7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AudioVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: c127e0f15263e534750bb5271432b5f5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoCameraExample
+  - hash:
+      serializedVersion: 2
+      Hash: af0537dabf7072720b1497b88b975216
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoLocalInteractionExample
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: a211fba5fe4e8b1eb599e3498e2a9c87
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRUIPrimaryRadioButton
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 4f246c9224146e4a4005ec7bc6939ba9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRKeyboardSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 6663435805926faf16934aed992cd26b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: Benchmark03
+  - hash:
+      serializedVersion: 2
+      Hash: 2b690b272d109d2a30b97e74afb24049
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRUIPrimaryDialogueBox
+  - hash:
+      serializedVersion: 2
+      Hash: 921a78612d63370f343df011554e5db8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScaleLerper
+  - hash:
+      serializedVersion: 2
+      Hash: e6f0efd0e20669d577e9d21526b3d3f9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: WarpTextExample
+  - hash:
+      serializedVersion: 2
+      Hash: 585fadd276f11617d70411876e186a84
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRUIInteractable
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 9f6d2549b45d33bf0e0b53c817e47127
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRUIPrimaryInputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ButtonActionManager
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: dd7520b7d4e690e8c593273e7b9fbe80
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_TextEventCheck
+  - hash:
+      serializedVersion: 2
+      Hash: fd68d84f33fad85aac38f2739c0ee270
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 08ee418b801850b56a351565b9c8bb78
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro
+    className: TMP_TextEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NavigateScene
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 5dff6976cf4d0428a5faa50f1a8a1d99
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoDisplayExample
+  - hash:
+      serializedVersion: 2
+      Hash: 47930f3b40e24ef5b3b5e3d9ada7097a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: Benchmark01
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DemoSceneInteractions
+  - hash:
+      serializedVersion: 2
+      Hash: 67f131bce7b13ef29428951ae9e84ffe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRCheckBoxButtonAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRCanvasUtility
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerPrefsManager
+  - hash:
+      serializedVersion: 2
+      Hash: 6d4e4ef5718a90b5d4e6e0c5cf884d24
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AudioSpectrumData
+  - hash:
+      serializedVersion: 2
+      Hash: cf8f0abf74cd8aa6eb322d678a62b3ec
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRInputField
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: fa90362ec740c5c1939096e9661a9aad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: KeySwitcherHelper
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3375c3d749f8f4cad889721b431bdc27
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: CameraController
+  - hash:
+      serializedVersion: 2
+      Hash: e63944317d2f5958e31963668bb29158
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: VertexJitter
+  - hash:
+      serializedVersion: 2
+      Hash: 602945174f405188132237483b67589f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRUIPrimaryRadioButtonGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 3d97504a910d769f1e16eb098f875bd1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRUIRadioButtonGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 08789b6ec246313879a7401e96d82a52
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRUIToggle
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoBezierExample
+  - hash:
+      serializedVersion: 2
+      Hash: cf8f0abf74cd8aa6eb322d678a62b3ec
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRSearchField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 6a4dab11788488fc0032f91ae160fabe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRBaseThemeAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 602945174f405188132237483b67589f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRUITertiaryButtonGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ClickHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 3dde9d74b5b84b5fa969e54a5a8bdab9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRUISlider
+  - hash:
+      serializedVersion: 2
+      Hash: 9e66940bf8434bff3abcc2e89c8f5720
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRUIPrimaryCheckBoxButtonGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: a04b23fe347df92831496cf74e87d659
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRVirtualKeyboardKeys
+  - hash:
+      serializedVersion: 2
+      Hash: 62631a0da7614e89645cbfeabc4cd8fc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRUIPrimaryDropDownItem
+  - hash:
+      serializedVersion: 2
+      Hash: 2c0a467ee7950c941c2dd8ef6b974a7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ChatController
+  - hash:
+      serializedVersion: 2
+      Hash: f07d59188c7f11f2ae22be4cb84408e8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.ThemeSystem
+    className: JMRThemeColorSet
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoSceneSwitcher
+  - hash:
+      serializedVersion: 2
+      Hash: 9eecbe9bdf1ab23e8b57d7b2f2797baa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK
+    className: JMRDemoParallelTracking
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MoveCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 803244455ab9f67239fb15957856f654
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRUIPrimaryDropDown
+  - hash:
+      serializedVersion: 2
+      Hash: e244702e0dc05782229aa524e4d757f5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_ExampleScript_01
+  - hash:
+      serializedVersion: 2
+      Hash: 4eb03bfeeaa571854a899bc08696e7b2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.InputModule
+    className: JMRKeyboardPreviewField
+  - hash:
+      serializedVersion: 2
+      Hash: 48adb715054e62b6318f4ca6a6b52a33
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScoreText
+  - hash:
+      serializedVersion: 2
+      Hash: 11319334e5365797f8056694f9b5dae4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: ObjectSpin
+  - hash:
+      serializedVersion: 2
+      Hash: f64fd37da5cb89243ec68b5026d70bb8
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: a0aaacf85a7a325a2ae706dcc9a654d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRVirtualKeyBoard
+  - hash:
+      serializedVersion: 2
+      Hash: c9a8b80298a116835b51ba1cf9284367
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro
+    className: TMP_DigitValidator
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 03713d698c9a606b12c2fb85722140e2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoInteractionGettersExample
+  - hash:
+      serializedVersion: 2
+      Hash: 300fd99066f8c288e85f5e81ce65fe34
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: fe1fdeffc2067077b2f1a90b210c2532
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DropdownSample
+  - hash:
+      serializedVersion: 2
+      Hash: 87ad3705a58f19c47136728d4a6e9c47
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TextConsoleSimulator
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 62fef86270a167c41a606cfca1ecc156
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: ShaderPropAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_TextSelector_A
+  - hash:
+      serializedVersion: 2
+      Hash: 45e18f5c82a8c43f36516faeb6578f6b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoTestGlobalBackAction
+  - hash:
+      serializedVersion: 2
+      Hash: e9f726075054097962a1d2b0f8b5c360
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MicrophoneInput
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: SimpleScript
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PauseButton
+  - hash:
+      serializedVersion: 2
+      Hash: 3fdb6824d947de2038a56148cd6a5e1a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRSliderTint
+  - hash:
+      serializedVersion: 2
+      Hash: b6514f552bd2ee9e736a5678aa7f7de3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_TextInfoDebugTool
+  - hash:
+      serializedVersion: 2
+      Hash: 3d97504a910d769f1e16eb098f875bd1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRUICheckBoxButtonGroup
+  - hash:
+      serializedVersion: 2
+      Hash: bd3f0ca738703903e759f77536ed74fd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_FrameRateCounter
+  - hash:
+      serializedVersion: 2
+      Hash: a1ca1237bad0f30ea5ba8f4060929114
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_TextSelector_B
+  - hash:
+      serializedVersion: 2
+      Hash: db4b60e20ca8102027d998fa56e8a698
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMR2DDropDown
+  - hash:
+      serializedVersion: 2
+      Hash: af0537dabf7072720b1497b88b975216
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoGlobalInteractionExample
+  - hash:
+      serializedVersion: 2
+      Hash: 6939772cb3ce775a8e8d99f332534491
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: a1b40d4157127da415054750a9747fe2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoParallelExample
+  - hash:
+      serializedVersion: 2
+      Hash: 8f44b4e9a8417170cb94ace90468f3ff
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRUIPrimaryDialogueBoxError
+  - hash:
+      serializedVersion: 2
+      Hash: 27e5341178f188b89bdc6495710b590c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: Benchmark01_UGUI
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8a874a8207a7664bdf44e61f28717254
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: SkewTextExample
+  - hash:
+      serializedVersion: 2
+      Hash: fe2d355deb0ca31d59a0a7cf4d141fc3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: Benchmark04
+  - hash:
+      serializedVersion: 2
+      Hash: eacf60e32910ebe13197e7dd1f0683cc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRToolkitManager
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6ceabfd38a184413d69b7db56c89cc
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 5b0522d083c0d3b1de578055dbccceaf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit
+    className: JMRThemeAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI.Cards
+    className: CardBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: f60bcd054821d9fc1e8442be2191dccb
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI.Cards
+    className: CardData
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI.Cards
+    className: ErrorPopupBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI.Cards
+    className: InfoPopupBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: a8e6b85f1918c08fb78696b60dbb9703
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI.Utils
+    className: JMRTrackedLazyFollow
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI
+    className: JMRUIManager
+  - hash:
+      serializedVersion: 2
+      Hash: 2b863ec84bbb62d87b065f963917baa0
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI.Mediator
+    className: PopUpMediator
+  - hash:
+      serializedVersion: 2
+      Hash: d6abe26ac4b7bc60d4b31d1c2c53a911
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI.ScriptableObjectClasses
+    className: SO_PopupConfigData
+  - hash:
+      serializedVersion: 2
+      Hash: 10053bdcce8305af18fbaaa4181e8784
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI.ScriptableObjectClasses
+    className: SO_PopupConfigData_Container
+  - hash:
+      serializedVersion: 2
+      Hash: 32e533daf74148b00ce410eee91cca0f
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI.ScriptableObjectClasses
+    className: SO_SystemUICommonConfigs
+  - hash:
+      serializedVersion: 2
+      Hash: 0967162099e36b36e0e675a441464699
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI
+    className: SUIConfigManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI.Cards
+    className: ToastPopupBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 3220e42da557e7fb9ddbabd893cc717a
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI.Cards
+    className: UpdateButtonTheme
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: JMRSDKUI.dll
+    namespaceName: JMRSDK.UI.Cards
+    className: WarningPopupBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 4d16cfbaa8e821a2b370e80844a0e9bc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TextMeshSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: e63944317d2f5958e31963668bb29158
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: VertexShakeB
+  - hash:
+      serializedVersion: 2
+      Hash: 4f60ff347d4efee4ef8cc7f627735018
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: Benchmark02
+  - hash:
+      serializedVersion: 2
+      Hash: 4e4933f38c412b6acd3b3c9d3c9c377f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AudioVoiceVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: bd3f0ca738703903e759f77536ed74fd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMP_UiFrameRateCounter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: VertexColorCycler
+  - hash:
+      serializedVersion: 2
+      Hash: 704dcd31abc789439bc3f3cd10b58c2b
+    assemblyName: DOTween.dll
+    namespaceName: DG.Tweening.Core
+    className: DOTweenComponent
+  - hash:
+      serializedVersion: 2
+      Hash: 179648033371456981a3c08cb9f47477
+    assemblyName: DOTween.dll
+    namespaceName: DG.Tweening.Core
+    className: DOTweenSettings
+  - hash:
+      serializedVersion: 2
+      Hash: e63944317d2f5958e31963668bb29158
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: VertexZoom
+  - hash:
+      serializedVersion: 2
+      Hash: f618ca38b50deb2f27bac23ea3381f5f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRDialogueBoxButton
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 800c50acba124432abb4cf0d47202e06
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: b44ae65e778f5321b84fb92ea67776f9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScrollingUV
+  - hash:
+      serializedVersion: 2
+      Hash: e80c1450883443c68d6c2dade213536f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TMPro_InstructionOverlay
+  - hash:
+      serializedVersion: 2
+      Hash: 997f89b6b0b658a143e8dcb10787e892
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoMaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TeleType
+  - hash:
+      serializedVersion: 2
+      Hash: 7536c3aaa3b668b80f1580147a12d30d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: TextMeshProFloatingText
+  - hash:
+      serializedVersion: 2
+      Hash: 8f15c253902ff4eef507927669b9dc80
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: b7e217ab1361ce3fda1b7299839490a6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MovingCube
+  - hash:
+      serializedVersion: 2
+      Hash: 0784d4fd5b93bd75440d01eb2fac4233
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: TMPro.Examples
+    className: VertexShakeA
+  - hash:
+      serializedVersion: 2
+      Hash: 8b1fe5dfdcf943fb3b72506b9f19335f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EnvMapAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 411da13b506430ced30b8e3169a73ab5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK
+    className: JMRDemoVoiceExample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: fc9fa87d86a8ac806a3ab6121953b52a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoInteractionExample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Demo
+    className: JMRDemoMultiSceneRayCastCameraSetter
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameManager
+  - hash:
+      serializedVersion: 2
+      Hash: 307021fcb63ba199356fa4e34aa2cab4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRThemeConfigHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 0afb9f509a1ed338bc99c37fa773f16e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: SO_ThemeData
+  - hash:
+      serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 5dea360fb0b147724ac344e6f399c2f3
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 9726bc46e15d44429bd38fb013657f1e
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 3fe9b62da5f78d353794f1a39ee9e7da
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JMRSDK.Toolkit.UI
+    className: JMRUIPrimarySearchField
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: b2d4ffbec275f552495a6d0caff64c6b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JMRDemoTrackingExample
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: c4e61d9a620da9e5a586291498907d66
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: IntentRecieverExample
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  platform: 13
+  scenePathNames:
+  - Assets/Scenes/startgame.unity
+  - Assets/Scenes/MessWith.unity
+  - Assets/Scenes/gameover.unity
+  playerPath: C:/Users/arush/LetsStack/StackGame/StackGamev9.apk

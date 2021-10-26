@@ -1,0 +1,384 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-101:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b0f8196cdbb8176eb73733a636386dd9\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.preference:preference-ktx:1.1.1] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\f4108ecb7c074818ac86510c84019748\AndroidManifest.xml:17:1-24:12
+MERGED from [:common:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\ac704f755aa522ff84a200a650580d20\AndroidManifest.xml:2:1-12:12
+MERGED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:2:1-28:12
+MERGED from [:networkconnectionsdk:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\79b63fd44fbe3e21822179f092f80ee4\AndroidManifest.xml:2:1-10:12
+MERGED from [:utility-debug:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\4406180629d67729784a52d534e6dafc\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8dd6c8269fc2713c27239cb0f022de8b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\85680508fa12ebd54d1ac96b57ea44c8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\aceb7594ad90be1cf76902a23504b17a\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\32202d5d0f0d2d27b81ee27d1c34e005\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b1dc4b91f2c38e064571b35419edf568\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\0b796ff6489b67334a691ba689770fec\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\0570e7424cd627879f9c289331f31e8b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\acfccc93dda0914233fc35ea981a1b2e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8863379672c6505bdd5f10a3b7d1e028\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b1efa9a3d059a37ad18bf61e4962dd2d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8152a47f12bd02d83089dc7841b97e54\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\44b0fdf823b5537f023384a36b367ce4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\7d9e5d1499752f8c7f377fea0030a7cf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b2f9075262771c48eb3686d1e3aad91c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\96cad7b3d68c18c120cc5be89790f498\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\aadde681e05fb2741648d0fe821ad159\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\27b8f7e6ca36d5cc4dfe3e793c872cfe\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\f53f06203b354b663ec243ae71c8aea6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8215366d23ad4cc5d275959fecc2119c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\f79ab73590dca33e13cb9680a2e3e8f6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\032ae174d6cb6c70006149f651dd490d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\9d7d41fdce1dc198c60161f9e062c315\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\84392b84d4f60c3b77dd84226a02ae22\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\769b102024a3c06c6b1a35b406b8e84c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\4ed239fe330a2f131fc9c27424357bd8\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\11b0c0cb32de63000e2fc515c3ef0aba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\ea72636483f1b985bffa730d73fb0a2c\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\dfe8db9a46f95eb472ce270ee155d7db\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\97579b100e024ce20ad05922c08154b9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\0b78d80b98ad4e2a2a34579ecf2f7a51\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\c0bae3c611a76ccc839117e047bc9d61\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\fa3cd71863ac78bd0853df28aeca3c9d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\99dac84af0519ef32bca7c7e2f5f9e48\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\c67aeb00419e444af1d43a39cbf3e872\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\2c5f7273c201e8b0ab0f105b776d9c6d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\c1e86be56617ddfad7cb1cd58d4a1f85\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8deeefcaea342d924346bda953def1d5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\4ddb31118b2120e600f87b4dc53c6957\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:70-116
+		INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:117-163
+	android:versionCode
+		INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:1-6:12
+		INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:3:164-204
+supports-screens
+ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:3-163
+MERGED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-18:40
+MERGED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-18:40
+	android:largeScreens
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:4:135-160
+application
+ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:5-99:19
+MERGED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:5-99:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b0f8196cdbb8176eb73733a636386dd9\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b0f8196cdbb8176eb73733a636386dd9\AndroidManifest.xml:7:5-20
+MERGED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:10:5-26:19
+MERGED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:10:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\4ed239fe330a2f131fc9c27424357bd8\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\4ed239fe330a2f131fc9c27424357bd8\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\ea72636483f1b985bffa730d73fb0a2c\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\ea72636483f1b985bffa730d73fb0a2c\AndroidManifest.xml:24:5-25:19
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:9-46
+	android:requestLegacyExternalStorage
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\4ed239fe330a2f131fc9c27424357bd8\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml:5:49-80
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:9-50
+uses-sdk
+INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-11:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b0f8196cdbb8176eb73733a636386dd9\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b0f8196cdbb8176eb73733a636386dd9\AndroidManifest.xml:5:5-43
+MERGED from [androidx.preference:preference-ktx:1.1.1] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\f4108ecb7c074818ac86510c84019748\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.1.1] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\f4108ecb7c074818ac86510c84019748\AndroidManifest.xml:20:5-22:41
+MERGED from [:common:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\ac704f755aa522ff84a200a650580d20\AndroidManifest.xml:8:5-10:41
+MERGED from [:common:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\ac704f755aa522ff84a200a650580d20\AndroidManifest.xml:8:5-10:41
+MERGED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:8:5-44
+MERGED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:8:5-44
+MERGED from [:utility-debug:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\4406180629d67729784a52d534e6dafc\AndroidManifest.xml:7:5-9:41
+MERGED from [:utility-debug:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\4406180629d67729784a52d534e6dafc\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8dd6c8269fc2713c27239cb0f022de8b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8dd6c8269fc2713c27239cb0f022de8b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\85680508fa12ebd54d1ac96b57ea44c8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\85680508fa12ebd54d1ac96b57ea44c8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\aceb7594ad90be1cf76902a23504b17a\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\aceb7594ad90be1cf76902a23504b17a\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\32202d5d0f0d2d27b81ee27d1c34e005\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\32202d5d0f0d2d27b81ee27d1c34e005\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b1dc4b91f2c38e064571b35419edf568\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b1dc4b91f2c38e064571b35419edf568\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\0b796ff6489b67334a691ba689770fec\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\0b796ff6489b67334a691ba689770fec\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\0570e7424cd627879f9c289331f31e8b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\0570e7424cd627879f9c289331f31e8b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\acfccc93dda0914233fc35ea981a1b2e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\acfccc93dda0914233fc35ea981a1b2e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8863379672c6505bdd5f10a3b7d1e028\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8863379672c6505bdd5f10a3b7d1e028\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b1efa9a3d059a37ad18bf61e4962dd2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b1efa9a3d059a37ad18bf61e4962dd2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8152a47f12bd02d83089dc7841b97e54\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8152a47f12bd02d83089dc7841b97e54\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\44b0fdf823b5537f023384a36b367ce4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\44b0fdf823b5537f023384a36b367ce4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\7d9e5d1499752f8c7f377fea0030a7cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\7d9e5d1499752f8c7f377fea0030a7cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b2f9075262771c48eb3686d1e3aad91c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\b2f9075262771c48eb3686d1e3aad91c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\96cad7b3d68c18c120cc5be89790f498\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\96cad7b3d68c18c120cc5be89790f498\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\aadde681e05fb2741648d0fe821ad159\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\aadde681e05fb2741648d0fe821ad159\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\27b8f7e6ca36d5cc4dfe3e793c872cfe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\27b8f7e6ca36d5cc4dfe3e793c872cfe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\f53f06203b354b663ec243ae71c8aea6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\f53f06203b354b663ec243ae71c8aea6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8215366d23ad4cc5d275959fecc2119c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8215366d23ad4cc5d275959fecc2119c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\f79ab73590dca33e13cb9680a2e3e8f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\f79ab73590dca33e13cb9680a2e3e8f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\032ae174d6cb6c70006149f651dd490d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\032ae174d6cb6c70006149f651dd490d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\9d7d41fdce1dc198c60161f9e062c315\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\9d7d41fdce1dc198c60161f9e062c315\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\84392b84d4f60c3b77dd84226a02ae22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\84392b84d4f60c3b77dd84226a02ae22\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\769b102024a3c06c6b1a35b406b8e84c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\769b102024a3c06c6b1a35b406b8e84c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\4ed239fe330a2f131fc9c27424357bd8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\4ed239fe330a2f131fc9c27424357bd8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\11b0c0cb32de63000e2fc515c3ef0aba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\11b0c0cb32de63000e2fc515c3ef0aba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\ea72636483f1b985bffa730d73fb0a2c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\ea72636483f1b985bffa730d73fb0a2c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\dfe8db9a46f95eb472ce270ee155d7db\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\dfe8db9a46f95eb472ce270ee155d7db\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\97579b100e024ce20ad05922c08154b9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\97579b100e024ce20ad05922c08154b9\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\0b78d80b98ad4e2a2a34579ecf2f7a51\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\0b78d80b98ad4e2a2a34579ecf2f7a51\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\c0bae3c611a76ccc839117e047bc9d61\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\c0bae3c611a76ccc839117e047bc9d61\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\fa3cd71863ac78bd0853df28aeca3c9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\fa3cd71863ac78bd0853df28aeca3c9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\99dac84af0519ef32bca7c7e2f5f9e48\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\99dac84af0519ef32bca7c7e2f5f9e48\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\c67aeb00419e444af1d43a39cbf3e872\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\c67aeb00419e444af1d43a39cbf3e872\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\2c5f7273c201e8b0ab0f105b776d9c6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\2c5f7273c201e8b0ab0f105b776d9c6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\c1e86be56617ddfad7cb1cd58d4a1f85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\c1e86be56617ddfad7cb1cd58d4a1f85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8deeefcaea342d924346bda953def1d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8deeefcaea342d924346bda953def1d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\4ddb31118b2120e600f87b4dc53c6957\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\4ddb31118b2120e600f87b4dc53c6957\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\launcher\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-26:31
+	tools:node
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-28
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-55
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:5-29:31
+	tools:node
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:9-28
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-32:31
+	tools:node
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:9-28
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:9-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:5-35:31
+	tools:node
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:9-28
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:9-59
+uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:5-38:31
+	tools:node
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:9-28
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:9-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:5-68
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:22-65
+uses-feature#0x00020000
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:19-51
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:5-80
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:5-68
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:22-65
+uses-feature#android.hardware.microphone
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:5-48:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:9-51
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:5-51:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:5-54:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:5-57:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-72
+activity#com.jiotesseract.mr.sdk.JmrUnityActivity
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-85:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:71:13-50
+	android:label
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:13-45
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:68:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-194
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:tesseract.intent.category.MR_LAUNCHER
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:72:13-77:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:73:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:73:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:27-74
+category#tesseract.intent.category.MR_LAUNCHER
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:17-82
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:27-79
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:79:13-81:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:81:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:80:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:82:13-84:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:84:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:83:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:87:9-89:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:89:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:88:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:90:9-92:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:92:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:91:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:93:9-95:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:95:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:94:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:96:9-98:68
+	android:value
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:98:13-65
+	android:name
+		ADDED from [:unityLibrary] C:\Users\arush\FinalStackPls\StackGame\Temp\gradleOut\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:97:13-42
+meta-data#mr_app
+ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:12:13-34
+meta-data#com.jiotesseract.DeviceServiceSDKVersion
+ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:14:9-16:46
+	android:value
+		ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:16:13-43
+	android:name
+		ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:15:13-68
+meta-data#com.jiotesseract.DeviceServiceSDKCodeName
+ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:17:9-19:46
+	android:value
+		ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:19:13-43
+	android:name
+		ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:18:13-69
+meta-data#com.jiotesseract.DeviceServiceSDKAPILevel
+ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:20:9-22:33
+	android:value
+		ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:22:13-30
+	android:name
+		ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:21:13-69
+meta-data#com.jiotesseract.DeviceServiceSDKMinAPILevel
+ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:23:9-25:33
+	android:value
+		ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:25:13-30
+	android:name
+		ADDED from [:JMRServicesSDK:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\8df94c52de77034b44b91d51bbc89169\AndroidManifest.xml:24:13-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:networkconnectionsdk:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\79b63fd44fbe3e21822179f092f80ee4\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [:networkconnectionsdk:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\79b63fd44fbe3e21822179f092f80ee4\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [:networkconnectionsdk:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\79b63fd44fbe3e21822179f092f80ee4\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from [:networkconnectionsdk:] C:\Users\arush\.gradle\caches\transforms-2\files-2.1\79b63fd44fbe3e21822179f092f80ee4\AndroidManifest.xml:8:22-64

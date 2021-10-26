@@ -1,0 +1,2138 @@
+[
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-watch-v20_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_widget_seekbar.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_widget_seekbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_image_frame.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\image_frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_quater_clear_rect.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\quater_clear_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_border.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_fragment_fade_exit.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\8863379672c6505bdd5f10a3b7d1e028\\res\\anim\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-v21_star.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable-v21\\star.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4_ic_frame_frame.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxxhdpi-v4\\ic_frame_frame.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_ic_color_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_btn_checkbox_unchecked_mtrl.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4_ic_frame_cross_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_fragment_open_enter.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\8863379672c6505bdd5f10a3b7d1e028\\res\\anim\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\interpolator_btn_radio_to_on_mtrl_animation_interpolator_0.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\interpolator\\btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color_abc_hint_foreground_material_light.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_btn_checkbox_to_unchecked_box_inner_merged_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4_ic_drawer.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-mdpi-v4\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_widget_seekbar_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_widget_seekbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\animator_card_flip_right_out.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\animator\\card_flip_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_btn_checkbox_unchecked_to_checked_mtrl_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\btn_checkbox_unchecked_to_checked_mtrl_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_dialog_edittext.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_fragment_close_enter.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\8863379672c6505bdd5f10a3b7d1e028\\res\\anim\\fragment_close_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4_ic_frame_cross_quarter.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-mdpi-v4\\ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-xxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_color_picker.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\layout\\color_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4_ic_frame_circle_2.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxxhdpi-v4\\ic_frame_circle_2.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_btn_video_shutter_recording_pressed_holo.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\btn_video_shutter_recording_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4_ic_frame_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-mdpi-v4\\ic_frame_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_btn_radio_to_off_mtrl_ring_outer_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_category_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_category_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\animator_card_flip_right_in.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\animator\\card_flip_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi-v4_ic_frame_circle_2.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-ldpi-v4\\ic_frame_circle_2.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_btn_checkbox_to_checked_icon_null_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_border_black.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\border_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi-v4_ic_frame_frame.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-ldpi-v4\\ic_frame_frame.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4_ic_frame_frame.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-mdpi-v4\\ic_frame_frame.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_ic_increment.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\ic_increment.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\xml_file_provider_paths.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\8df94c52de77034b44b91d51bbc89169\\res\\xml\\file_provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\interpolator_fast_out_slow_in.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\interpolator\\fast_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4_ic_frame_frame.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxhdpi-v4\\ic_frame_frame.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_toggle_slide.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\toggle_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_btn_radio_on_mtrl.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4_ic_transparent.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xhdpi-v4\\ic_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_btn_shutter_video_default.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\btn_shutter_video_default.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4_ic_frame_cross_quarter.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xhdpi-v4\\ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4_ic_color_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-mdpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_ic_frame_circle_2.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\ic_frame_circle_2.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_expand_button.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\expand_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_btn_shutter_pressed.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\btn_shutter_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_information_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_information_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_btn_checkbox_checked_to_unchecked_mtrl_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\btn_checkbox_checked_to_unchecked_mtrl_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\8152a47f12bd02d83089dc7841b97e54\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_list_item_bluetooth_device_info.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\layout\\list_item_bluetooth_device_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_category.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_btn_radio_to_on_mtrl_dot_group_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_btn_shutter_default.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\btn_shutter_default.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\animator_card_flip_left_in.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\animator\\card_flip_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_btn_radio_off_to_on_mtrl_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\btn_radio_off_to_on_mtrl_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi-v4_ic_frame_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-ldpi-v4\\ic_frame_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_ic_frame_cross_quarter.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_dropdown.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4_ic_frame_cross.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxhdpi-v4\\ic_frame_cross.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_fragment_close_exit.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\8863379672c6505bdd5f10a3b7d1e028\\res\\anim\\fragment_close_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_mask_circle.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\mask_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_btn_repeat_shutter_recording.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\btn_repeat_shutter_recording.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4_ic_frame_cross_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-mdpi-v4\\ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_btn_radio_to_on_mtrl_ring_outer_path_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_check_material_anim.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_btn_check_material_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4_ic_frame_circle_2.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xhdpi-v4\\ic_frame_circle_2.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-hdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_btn_repeat_shutter_recording_pressed_holo.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\btn_repeat_shutter_recording_pressed_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_app_icon.png.flat",
+        "source": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_btn_new_shutter_video.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\btn_new_shutter_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi-v4_ic_frame_cross_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-ldpi-v4\\ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_ic_frame_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\ic_frame_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_btn_checkbox_to_checked_box_outer_merged_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_btn_repeat_shutter_default.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\btn_repeat_shutter_default.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_fragment_open_exit.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\8863379672c6505bdd5f10a3b7d1e028\\res\\anim\\fragment_open_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_frame.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\frame.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4_ic_frame_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxxhdpi-v4\\ic_frame_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_seekbar_preference.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\layout\\seekbar_preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4_ic_frame_cross_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xhdpi-v4\\ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_toggle.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4_ic_drawer.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxhdpi-v4\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_btn_checkbox_to_unchecked_check_path_merged_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_list_divider_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_tooltip.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_tooltip_frame_dark.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_radio_material_anim.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_btn_radio_material_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_btn_repeat_shutter_recording_holo.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\btn_repeat_shutter_recording_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4_ic_transparent.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxhdpi-v4\\ic_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4_ic_frame_cross_quarter.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxhdpi-v4\\ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\interpolator_btn_radio_to_off_mtrl_animation_interpolator_0.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\interpolator\\btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_btn_radio_off_mtrl.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_view_frame_selector.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\layout\\view_frame_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_recyclerview.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4_ic_frame_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xhdpi-v4\\ic_frame_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4_ic_frame_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxhdpi-v4\\ic_frame_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_btn_video_shutter_recording_holo.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\btn_video_shutter_recording_holo.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_widget_switch.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_widget_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_btn_shutter_video_pressed.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\btn_shutter_video_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_frame_cross.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\frame_cross.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi-v4_ic_frame_cross_quarter.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-ldpi-v4\\ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4_ic_frame_cross_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxhdpi-v4\\ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4_ic_transparent.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxxhdpi-v4\\ic_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_recordingtime.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\recordingtime.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_item_picker.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\layout\\item_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_btn_repeat_shutter_pressed.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\btn_repeat_shutter_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4_ic_frame_cross_quarter.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross_quarter.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4_ic_color_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxhdpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_btn_radio_on_to_off_mtrl_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\btn_radio_on_to_off_mtrl_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_search_api_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_widget_switch_compat.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-v21_ic_arrow_down_24dp.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\drawable-v21\\ic_arrow_down_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-v21_preference_list_divider_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\drawable-v21\\preference_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_btn_new_shutter.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\btn_new_shutter.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_ic_frame_cross_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\ic_frame_cross_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim-v21_fragment_fast_out_extra_slow_in.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\8863379672c6505bdd5f10a3b7d1e028\\res\\anim-v21\\fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-ldpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_btn_checkbox_to_unchecked_icon_null_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_tooltip_frame_light.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_color_picker_dialog.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\layout\\color_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_dropdown_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_dropdown_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_ic_drawer.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4_ic_frame_cross.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xhdpi-v4\\ic_frame_cross.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\interpolator_btn_checkbox_checked_mtrl_animation_interpolator_0.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_border_gray.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\border_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi-v4_ic_color_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-ldpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxhdpi-v4\\ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\interpolator_btn_checkbox_checked_mtrl_animation_interpolator_1.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\interpolator\\btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_toggle_button_base.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\toggle_button_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4_ic_frame_frame.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xhdpi-v4\\ic_frame_frame.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_btn_checkbox_checked_mtrl.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4_ic_frame_circle_2.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxhdpi-v4\\ic_frame_circle_2.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xhdpi-v4\\ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_ic_decrement.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\ic_decrement.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4_ic_frame_cross.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxxhdpi-v4\\ic_frame_cross.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_ic_frame_frame.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\ic_frame_frame.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_abc_tooltip_exit.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4_ic_drawer.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xhdpi-v4\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\animator_card_flip_left_out.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\animator\\card_flip_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-xxxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi-v4_ic_frame_cross.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-ldpi-v4\\ic_frame_cross.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4_ic_frame_circle_2.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-mdpi-v4\\ic_frame_circle_2.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_btn_checkbox_to_checked_box_inner_merged_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-xhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_btn_shutter_video_recording.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\btn_shutter_video_recording.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_ic_transparent.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\ic_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_btn_radio_to_off_mtrl_ring_outer_path_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_information.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\interpolator_btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\interpolator\\btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_fragment_fade_enter.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\8863379672c6505bdd5f10a3b7d1e028\\res\\anim\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4_ic_color_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xxxhdpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_ic_frame_cross.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\ic_frame_cross.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_list_fragment.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_list_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_preference_widget_checkbox.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\0570e7424cd627879f9c289331f31e8b\\res\\layout\\preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_btn_radio_to_on_mtrl_ring_outer_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4_ic_color_circle.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-xhdpi-v4\\ic_color_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4_ic_frame_cross.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-mdpi-v4\\ic_frame_cross.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-mdpi-v4\\ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi-v4_ic_transparent.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-ldpi-v4\\ic_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_abc_tooltip_enter.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-hdpi-v4\\ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi-v4_ic_frame_cross_circle2.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-ldpi-v4\\ic_frame_cross_circle2.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4_ic_transparent.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\mipmap-mdpi-v4\\ic_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable_transparent_rect.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\ac704f755aa522ff84a200a650580d20\\res\\drawable\\transparent_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\4ed239fe330a2f131fc9c27424357bd8\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\anim_btn_radio_to_off_mtrl_dot_group_animation.xml.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\anim\\btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\arush\\FinalStackPls\\StackGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\arush\\.gradle\\caches\\transforms-2\\files-2.1\\acfccc93dda0914233fc35ea981a1b2e\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    }
+]
