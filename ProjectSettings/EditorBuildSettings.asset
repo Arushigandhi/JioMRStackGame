@@ -10,7 +10,10 @@ EditorBuildSettings:
     guid: 16746b4dbe882b04b9ccd9785fb25a94
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
-    guid: 362a3b191c6328d4481221986340629f
+    guid: 2837a3ad7117f1645a8bee4e29f0bce1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: Assets/Scenes/PerfectOne.unity
     guid: 2b3ab973b0bfb334ca4f9771751a602e

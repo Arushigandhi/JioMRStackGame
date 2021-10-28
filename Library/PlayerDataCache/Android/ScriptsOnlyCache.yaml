@@ -22,12 +22,14 @@ ScriptsOnlyBuild:
     - JMRSDK.Toolkit.UI.JMRVirtualKeyboardKeys
     - JMRSDK.Toolkit.UI.SO_ThemeData
     - MicrophoneInput
+    - MoveCamera
     - MovingCube
     - NavigateScene
     - PauseButton
     - ScoreText
     - ScrollingUV
     JMRSDK.dll:
+    - JMRInteraction
     - JMRSDK.Demo.JMRCanvasRayCastCameraSetter
     - JMRSDK.Dialogue.JMRSDKDialogue
     - JMRSDK.Dialogue.JMRSDKDialogueManager
@@ -204,6 +206,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12004}
     - Class: 114
+      Script: {instanceID: 12008}
+    - Class: 114
       Script: {instanceID: 12010}
     - Class: 114
       Script: {instanceID: 12014}
@@ -287,6 +291,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13104}
     - Class: 114
       Script: {instanceID: 13108}
+    - Class: 114
+      Script: {instanceID: 13238}
     - Class: 114
       Script: {instanceID: 13290}
     - Class: 114
@@ -407,6 +413,8 @@ ScriptsOnlyBuild:
     - Class: 82
       Script: {instanceID: 0}
     - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
       Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
@@ -2565,4 +2573,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/startgame.unity
   - Assets/Scenes/SampleScene.unity
   - Assets/Scenes/gameover.unity
-  playerPath: C:/Users/arush/LetsStack/StackGame/StackGamev10.apk
+  playerPath: C:/Users/arush/LetsStack/StackGame/StackGamev14.apk
